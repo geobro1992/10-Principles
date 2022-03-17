@@ -1,3 +1,3 @@
 # 10-Principles
 
-10 principles from Evolutionary Ecology for effective herp conservation
+10 principles from evolutionary ecology for effective herp conservation
